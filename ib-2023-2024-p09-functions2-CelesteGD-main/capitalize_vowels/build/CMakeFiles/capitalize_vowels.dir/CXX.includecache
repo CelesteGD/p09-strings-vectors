@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/capitalize_vowels/src/capitalize_vowels.cc
+capitalize_vowels.h
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/capitalize_vowels/src/capitalize_vowels.h
+
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/capitalize_vowels/src/capitalize_vowels.h
+iostream
+-
+string
+-
+cctype
+-
+
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/capitalize_vowels/src/capitalize_vowels_main.cc
+capitalize_vowels.h
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/capitalize_vowels/src/capitalize_vowels.h
+

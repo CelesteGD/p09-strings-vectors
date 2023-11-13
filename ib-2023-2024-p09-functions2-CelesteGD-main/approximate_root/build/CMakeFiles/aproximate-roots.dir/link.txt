@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/aproximate-roots.dir/src/aproximate-roots.cc.o CMakeFiles/aproximate-roots.dir/src/aproximate-roots_main.cc.o  -o aproximate-roots 

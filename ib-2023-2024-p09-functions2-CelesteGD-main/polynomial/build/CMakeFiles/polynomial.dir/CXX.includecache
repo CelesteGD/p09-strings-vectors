@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/polynomial/src/polynomial.cc
+iostream
+-
+vector
+-
+polynomial.h
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/polynomial/src/polynomial.h
+
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/polynomial/src/polynomial.h
+iostream
+-
+vector
+-
+
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/polynomial/src/polynomial_main.cc
+iostream
+-
+vector
+-
+polynomial.cc
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/polynomial/src/polynomial.cc
+polynomial.h
+/home/usuario/practica09/ib-2023-2024-p09-functions2-CelesteGD-main/polynomial/src/polynomial.h
+
